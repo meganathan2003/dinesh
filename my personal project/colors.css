@@ -363,7 +363,7 @@ form input{
 form .btn{
     width: 100%;
     border: none;
-    cursor: pointer;
+    /* cursor: pointer; */
     margin: 10px 0;
 
 }
